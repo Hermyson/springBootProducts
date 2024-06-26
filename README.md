@@ -36,7 +36,7 @@ mvn spring-boot:run
 ### Produto
 
 -  GET /api/products - Lista todos os produtos
-  GET /api/products/{id} - Busca um produto pelo ID
-  POST /api/products - Cria um novo produto
-  PUT /api/products/{id} - Atualiza um produto existente
-  DELETE /api/products/{id} - Deleta um produto
+-  GET /api/products/{id} - Busca um produto pelo ID
+-  POST /api/products - Cria um novo produto
+-  PUT /api/products/{id} - Atualiza um produto existente
+-  DELETE /api/products/{id} - Deleta um produto
