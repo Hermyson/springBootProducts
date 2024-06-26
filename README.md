@@ -34,7 +34,8 @@ mvn spring-boot:run
 
 ## Endpoints
 ### Produto
-  GET /api/products - Lista todos os produtos
+
+-  GET /api/products - Lista todos os produtos
   GET /api/products/{id} - Busca um produto pelo ID
   POST /api/products - Cria um novo produto
   PUT /api/products/{id} - Atualiza um produto existente
